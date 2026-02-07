@@ -1,6 +1,6 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
+	"host": "ACE-wiGu.aternos.me",
+	"port": "37414",
 	"username": "Mr Origami",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
@@ -14,7 +14,4 @@
 		"ms": "30000",
 		"text": "30s"
 	},
-	"servers": [
-		"https://ACE-wiGu.aternos.me:37414"
-	]
 }
